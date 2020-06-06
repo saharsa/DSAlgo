@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f921b2af-24ba-40b7-a246-39ac35ea02f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ccWS6pTL0FD1cKVYwCcin5Zn2N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MakeArraySorted">
+    <configuration name="DuplicateNumbersInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpGrad.DuplicateNumbersInArray" />
+      <module name="DSAlgo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UpGrad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindNotRepeated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpGrad.FindNotRepeated" />
+      <module name="DSAlgo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UpGrad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeArraySorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpGrad.MakeArraySorted" />
+      <module name="DSAlgo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UpGrad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxProductQuadruple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpGrad.MaxProductQuadruple" />
+      <module name="DSAlgo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UpGrad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpGrad.MissingNumbers" />
+      <module name="DSAlgo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UpGrad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MakeArraySorted" />
+        <item itemvalue="Application.FindNotRepeated" />
+        <item itemvalue="Application.MissingNumbers" />
+        <item itemvalue="Application.DuplicateNumbersInArray" />
+        <item itemvalue="Application.MaxProductQuadruple" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f921b2af-24ba-40b7-a246-39ac35ea02f0" name="Default Changelist" comment="" />
+      <created>1590828358535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590828358535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="99" key="FileChooserDialogImpl" timestamp="1591437825217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591437825217" />
+    <state width="1235" height="183" key="GridCell.Tab.0.bottom" timestamp="1591437326139">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="183" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591437326139" />
+    <state width="1235" height="183" key="GridCell.Tab.0.center" timestamp="1591437326139">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="183" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591437326139" />
+    <state width="1235" height="183" key="GridCell.Tab.0.left" timestamp="1591437326139">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="183" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591437326139" />
+    <state width="1235" height="183" key="GridCell.Tab.0.right" timestamp="1591437326139">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="183" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591437326139" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1591431800933">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1591431800933" />
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1591435148656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1591435148656" />
+  </component>
+</project>
