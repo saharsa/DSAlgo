@@ -2,3 +2,10 @@
 /_windows/
 /codestyles/
 /.idea/
+colors.scheme.xml
+debugger.xml
+DSAlgo.iml
+find.xml
+markdown.xml
+studioFlags.xml
+wsl.distributions.xml
