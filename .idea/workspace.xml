@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f921b2af-24ba-40b7-a246-39ac35ea02f0" name="Default Changelist" comment="" />
+    <list default="true" id="f921b2af-24ba-40b7-a246-39ac35ea02f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/BinarySearch/Bugs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/BinarySearch/GlowingBulbs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/BinarySearch/VowelQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/BinarySearch/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LongestSubstringWithoutRepeatChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/MedianTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/TrapRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/ArrayIndexEqualsElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/BinarySearchAssignmentA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/BinarySearchAssignmentB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/CoinExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/DequePalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/FindElementUnknownArrayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/InfixToPostfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/LinkedListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/MatchingParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/MinimumCostPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/MinimumJumps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/PaymentWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/PostfixEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Queue/bookingsystem/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Queue/bookingsystem/BookingAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Queue/bookingsystem/BookingRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Queue/bookingsystem/BookingRequestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Queue/bookingsystem/BookingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Queue/bookingsystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/QueuePalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/QueuePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/QueueSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/QueueUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/SherlockHolmes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/SpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Stack/versioningsystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Stack/versioningsystem/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Stack/versioningsystem/Version.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Stack/versioningsystem/VersioningService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Stack/versioningsystem/file/BaseFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Stack/versioningsystem/file/StringFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Stack/versioningsystem/file/VersionedFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/Stack/versioningsystem/file/VersionedStringFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/StackDeleteFirstHalf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/StackDuplicateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/StackKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/StackLinkedListReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/StackReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/StackSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/StackSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/StackUsingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpGrad/ZeroOneKnapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +71,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ccWS6pTL0FD1cKVYwCcin5Zn2N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +83,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/UpGrad" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunManager" selected="Application.MakeArraySorted">
-    <configuration name="DuplicateNumbersInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UpGrad.DuplicateNumbersInArray" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\saharsa.mohanty\Documents\DSAlgo\src\UpGrad" />
+      <recent name="C:\Users\saharsa.mohanty\Documents\DSAlgo\src\UpGrad\Queue" />
+      <recent name="C:\Users\saharsa.mohanty\Documents\DSAlgo\src\UpGrad\Stack\versioningsystem\file" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.QueueUsingStack">
+    <configuration name="BinarySearchAssignmentA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpGrad.BinarySearchAssignmentA" />
       <module name="DSAlgo" />
       <extension name="coverage">
         <pattern>
@@ -37,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNotRepeated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UpGrad.FindNotRepeated" />
+    <configuration name="DequePalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpGrad.DequePalindrome" />
       <module name="DSAlgo" />
       <extension name="coverage">
         <pattern>
@@ -50,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeArraySorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UpGrad.MakeArraySorted" />
+    <configuration name="InfixToPostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpGrad.InfixToPostfix" />
       <module name="DSAlgo" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProductQuadruple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UpGrad.MaxProductQuadruple" />
+    <configuration name="PostfixEvaluation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpGrad.PostfixEvaluation" />
       <module name="DSAlgo" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UpGrad.MissingNumbers" />
+    <configuration name="QueueUsingStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpGrad.QueueUsingStack" />
       <module name="DSAlgo" />
       <extension name="coverage">
         <pattern>
@@ -91,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MakeArraySorted" />
-        <item itemvalue="Application.FindNotRepeated" />
-        <item itemvalue="Application.MissingNumbers" />
-        <item itemvalue="Application.DuplicateNumbersInArray" />
-        <item itemvalue="Application.MaxProductQuadruple" />
+        <item itemvalue="Application.QueueUsingStack" />
+        <item itemvalue="Application.PostfixEvaluation" />
+        <item itemvalue="Application.InfixToPostfix" />
+        <item itemvalue="Application.BinarySearchAssignmentA" />
+        <item itemvalue="Application.DequePalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -117,29 +188,57 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="420" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591437825217" />
-    <state width="1235" height="183" key="GridCell.Tab.0.bottom" timestamp="1591437326139">
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom" timestamp="1592994263676">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1235" height="183" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591437326139" />
-    <state width="1235" height="183" key="GridCell.Tab.0.center" timestamp="1591437326139">
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592994263676" />
+    <state width="1237" height="195" key="GridCell.Tab.0.center" timestamp="1592994263676">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1235" height="183" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591437326139" />
-    <state width="1235" height="183" key="GridCell.Tab.0.left" timestamp="1591437326139">
+    <state width="1237" height="195" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592994263676" />
+    <state width="1237" height="195" key="GridCell.Tab.0.left" timestamp="1592994263675">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1235" height="183" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591437326139" />
-    <state width="1235" height="183" key="GridCell.Tab.0.right" timestamp="1591437326139">
+    <state width="1237" height="195" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592994263675" />
+    <state width="1237" height="195" key="GridCell.Tab.0.right" timestamp="1592994263676">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1235" height="183" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591437326139" />
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1591431800933">
+    <state width="1237" height="195" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592994263676" />
+    <state width="1237" height="187" key="GridCell.Tab.1.bottom" timestamp="1591981534552">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1591431800933" />
-    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1591435148656">
+    <state width="1237" height="187" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591981534552" />
+    <state width="1237" height="187" key="GridCell.Tab.1.center" timestamp="1591981534552">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1591435148656" />
+    <state width="1237" height="187" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1591981534552" />
+    <state width="1237" height="187" key="GridCell.Tab.1.left" timestamp="1591981534551">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="187" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1591981534551" />
+    <state width="1237" height="187" key="GridCell.Tab.1.right" timestamp="1591981534552">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="187" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1591981534552" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1591538387165">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1591538387165" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1592993926582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1592993926582" />
+    <state x="379" y="132" key="git4idea.merge.GitPullDialog" timestamp="1593003972725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="379" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1593003972725" />
+    <state x="91" y="0" key="new project wizard" timestamp="1591459858060">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1591459858060" />
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1592825654501">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1592825654501" />
   </component>
 </project>

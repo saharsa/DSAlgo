@@ -1,2 +1,4 @@
-out/
-.idea/
+/out/
+/_windows/
+/codestyles/
+/.idea/
